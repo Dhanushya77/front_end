@@ -1,0 +1,49 @@
+.qw {
+    border: 20px solid #c1c7c1;
+    margin-bottom: 2%;
+    background-color: #c1c7c1;
+    margin:0% 
+}
+
+li {
+    font-size: 18px;
+    margin-left: 1%;
+    display: inline;
+}
+
+.er{
+    margin-left: 200px;
+    display:inline;
+}
+
+
+.hh {
+    font-size: 35px;
+    display: inline;
+    border: 1px solid #c1c7c1;
+    background-color: #c1c7c1;
+    margin-right: 30%;
+}
+
+.hh {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.hh {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.hh {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+.er1{
+    margin-left: 150px;
+}
+
+
