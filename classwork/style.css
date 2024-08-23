@@ -2,7 +2,7 @@
     border: 20px solid #c1c7c1;
     margin-bottom: 2%;
     background-color: #c1c7c1;
-    margin:0% 
+    margin-top: 0%;
 }
 
 li {
@@ -11,9 +11,10 @@ li {
     display: inline;
 }
 
-.er{
+.er {
     margin-left: 200px;
-    display:inline;
+    display: inline;
+    width: 150px;
 }
 
 
@@ -22,28 +23,54 @@ li {
     display: inline;
     border: 1px solid #c1c7c1;
     background-color: #c1c7c1;
-    margin-right: 30%;
+    margin-right: 30%
 }
 
 .hh {
     font-family: "Libre Baskerville", serif;
     font-weight: 400;
     font-style: normal;
-}
-
-.hh {
     font-family: "Libre Baskerville", serif;
     font-weight: 700;
     font-style: normal;
 }
 
-.hh {
-    font-family: "Libre Baskerville", serif;
-    font-weight: 400;
-    font-style: italic;
-}
-.er1{
-    margin-left: 150px;
+.er1 {
+    margin-left: 200px;
+    width: 400px;
+    font-size: 20px;
+    text-align: justify;
 }
 
+.er2 {
+    border-radius: 50%;
+    width: 60px;
+    margin-left: 200px;
+    margin-right: 10px;
 
+}
+
+.er3 {
+    display: inline-flex;
+}
+
+.er3 h3 {
+    font-size: 18px;
+}
+
+.er4 {
+    margin-left: 200px;
+    width: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.er5 {
+    width: 150px;
+}
+
+.er6 {
+    margin-left: 200px;
+    display: inline;
+    width: 300px;
+}
