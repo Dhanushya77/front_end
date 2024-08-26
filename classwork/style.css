@@ -1,7 +1,7 @@
 .qw {
-    border: 20px solid #c1c7c1;
-    margin-bottom: 2%;
+    border: 10px solid #c1c7c1;
     background-color: #c1c7c1;
+    margin-bottom: 2%;
     margin-top: 0%;
 }
 
@@ -10,20 +10,12 @@ li {
     margin-left: 1%;
     display: inline;
 }
-
-.er {
-    margin-left: 200px;
-    display: inline;
-    width: 150px;
-}
-
-
 .hh {
     font-size: 35px;
-    display: inline;
     border: 1px solid #c1c7c1;
     background-color: #c1c7c1;
-    margin-right: 30%
+    margin-right: 25%;
+    display: inline;
 }
 
 .hh {
@@ -35,8 +27,13 @@ li {
     font-style: normal;
 }
 
+.er {
+    margin-left: 300px;
+    width: 10px;
+}
+
 .er1 {
-    margin-left: 200px;
+    margin-left: 300px;
     width: 400px;
     font-size: 20px;
     text-align: justify;
@@ -45,13 +42,17 @@ li {
 .er2 {
     border-radius: 50%;
     width: 60px;
-    margin-left: 200px;
+    margin-left: 20px;
     margin-right: 10px;
+    display: inline;
+    
 
 }
 
 .er3 {
-    display: inline-flex;
+    
+display: inline-flex;
+margin-left: 275px;
 }
 
 .er3 h3 {
@@ -59,18 +60,38 @@ li {
 }
 
 .er4 {
-    margin-left: 200px;
-    width: 400px;
+    margin-left: 30px;
+    width: 300px;
     font-size: 20px;
     text-align: justify;
 }
 
-.er5 {
-    width: 150px;
+.err{
+    display: flex;
+
 }
 
 .er6 {
-    margin-left: 200px;
-    display: inline;
+    margin-left: 30px;
     width: 300px;
+}
+.er8{
+    margin-left: 30px;
+    width: 300px;
+}
+.er9{
+    margin-left: 30px;
+    width: 300px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.er11{
+    width: 200px;
+    font-size: 17px;
+    text-align:left;
+}
+table{
+    margin-left: 10px;
+    border-style: none;
 }
