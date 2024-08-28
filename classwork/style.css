@@ -108,6 +108,7 @@ table {
     font-size: 35px;
     border-bottom: 2px solid grey;
     margin-right: 250px;
+    padding: 20px;
 }
 
 .qrr2 {
@@ -122,7 +123,7 @@ table {
 
 .qr2 {
     margin-left: 20px;
-    width: 365px;
+    width: 335px;
     font-size: 18px;
     text-align: left;
     margin-top: 0%;
@@ -148,30 +149,36 @@ table {
 .qr5 {
     margin-left: 300px;
     margin-bottom: 0px;
+    width: 250px;
+    margin-top: 20px;
 }
 
 .qr6 {
     margin-left: 300px;
-    width: 200px;
+    width: 250px;
     margin-top: 0%;
     text-align: left;
+    margin-right: 10px;
 }
 
 .qr7 {
-    width: 280px;
+    width: 300px;
 }
-.qr8{
-    width: fit-content;
+
+.qr8 {
+    width: 635px;
+    margin-top: 20px;
 }
 
 .qrr8 {
     border-top: 2px solid grey;
     width: 250px;
     margin-left: 300px;
+    margin-right: 10px;
 }
 
 .qr9 {
-    margin-left: 100px;
+    margin-left: 50px;
     width: 600px;
     margin-top: 0%;
 }
@@ -184,8 +191,123 @@ table {
     display: flex;
 }
 
-.wr1,.wr2,.wr3,.wr4,.wr5{
+.wr1,
+.wr2,
+.wr3,
+.wr4,
+.wr5 {
     border-bottom: 2px solid grey;
     width: 400px;
-    margin-left: 2px;
+    margin-left: 0px;
+}
+
+.dr1,
+.dr2,
+.dr3,
+.dr4,
+.dr5 {
+    border-bottom: 2px solid grey;
+
+}
+
+.drr1 {
+    margin-left: 300px;
+    width: 310px;
+    padding: 5px;
+}
+
+.drr {
+    margin-left: 290px;
+    margin-bottom: 0px;
+    font-size: 35px;
+    border-bottom: 2px solid grey;
+    margin-right: 250px;
+    padding: 20px;
+}
+
+.dr7 {
+    margin-left: 5px;
+    display: inline-flex;
+}
+.dr9{
+    margin-right: 20px;
+}
+.drrx{
+    display: flex;
+}
+
+
+.drr3 {
+    width: 300px;
+    align-content: flex-start;
+}
+
+.dr8 {
+    border-radius: 50%;
+    width: 60px;
+}
+
+.drr4 {
+    margin-left: 8px;
+    width: 300px;
+    margin-top: 10px;
+
+}
+
+.drr5 {
+    width: 650px;
+    margin-left: 20px;
+    margin-top: 10px;
+ 
+
+}
+
+.drr0 {
+    display: flex;
+}
+
+.drr7 {
+    display: flex;
+}
+
+
+.mmr {
+    margin-left: 290px;
+    margin-bottom: 10px;
+    font-size: 35px;
+    border-bottom: 2px solid grey;
+    margin-right: 250px;
+    padding: 20px;
+}
+
+.mm1 {
+    margin-left: 300px;
+    width: 300px;
+
+}
+
+.mm2 {
+    border-bottom: 2px solid grey;
+}
+
+.mm3 {
+    margin-left: 20px;
+    width: 300px;
+    font-size: 18px;
+    text-align: left;
+}
+.mm4{
+    margin-left: 20px;
+    width: 300px;
+    font-size: 18px;
+    text-align: left;
+}
+.mm5{
+    width: 300px;
+    margin-left: 20px;
+}
+
+.mmm {
+    display: flex;
+    font-size: 18px;
 }
