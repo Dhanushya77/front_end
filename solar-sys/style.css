@@ -31,7 +31,7 @@ body {
     left: 50%;
     border: 1px dashed silver;
     border-radius: 50%;
-    transform-origin: 0 0;
+    transform-origin:0 0;
     transform: translate(-50%, -50%);
     animation: rotate 20s infinite linear;
 }
@@ -82,21 +82,21 @@ body {
 }
 
 .uranus-orbit {
-    width: 0px;
-    height: 0px;
+    width: 400px;
+    height: 400px;
     animation-duration: 30s;
 }
 
 .neptune-orbit {
-    width: 0px;
-    height: 0px;
+    width: 450px;
+    height: 450px;
     animation-duration: 35s;
 }
 
 .mercury {
     background: gray;
-    width: 10px;
-    height: 10px;
+    width: 100px;
+    height: 100px;
 }
 
 .venus {
