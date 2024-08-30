@@ -7,14 +7,14 @@
     position: relative;
     background-color: black;
     border-radius: 50%;
-    animation-timing-function: cubic-bezier(0.3, 0.07, 0.58, 1.6);
+    animation-timing-function: ease-in;
 }
 
 @keyframes example {
     0% {
         background-color: black;
-        top: 0px;
-        left: 100px;
+        top: 20px;
+        left: 750px;
     }
 
     25% {
@@ -25,20 +25,20 @@
 
     50% {
         background-color: black;
-        top: 0px;
-        left: 1500px;
+        top: 20px;
+        left: 750px;
     }
 
     75% {
-        background-color: black;
+        background-color:black;
         top: 500px;
         left: 750px;
     }
 
     100% {
         background-color: black;
-        top: 0px;
-        left: 100px;
+        top: 20px;
+        left: 750px;
     }
 
 
@@ -46,6 +46,6 @@
 
 .adh {
     border-bottom: 20px solid black;
-    margin-top: 560px;
+    margin-top: 500px;
     position: static;
 }
