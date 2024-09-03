@@ -1,14 +1,70 @@
-.hhh{
-padding: 40px;
-font-size: small;
+.hhh {
+    font-size: 20px;
+    display: flex;
+    color: gray;
+
 }
-.hh1{
-    display: inline-flex;
+
+.hh1 {
+    font-size: 40px;
+    color: black;
+
 }
-.hh2 a{
-text-decoration: none;
-color: white;
-border: 10px solid rgb(10, 100, 78);
-background-color: rgb(10, 100, 78);
-border-radius: 5px;
+
+.hh2 a {
+    text-decoration: none;
+    color: white;
+    border: 10px solid rgb(10, 100, 78);
+    background-color: rgb(10, 100, 78);
+    border-radius: 5px;
+}
+
+.container-fluid {
+    margin-top: 30px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.hh3 {
+    margin-left: 300px;
+    margin-top: 180px;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+
+}
+
+.hh4 {
+    margin-left: 700px;
+    font-size: 90px;
+    margin-bottom: 30px;
+}
+.hh5{
+    font-size:33px ;
+    margin-left:600px ;
+    margin-right: 500px;
+    color: rgb(104, 104, 104);
+ 
+}
+.hh6{
+    font-size:33px ;
+    margin-left:720px ;
+    margin-right: 600px;
+    margin-top: 0px;
+    color: rgb(104, 104, 104);
+}
+.hhh1{
+    line-height: 30px;
+}
+.hh7{
+    margin-left: 800px;
+    margin-top: 60px;
+    border: 1px solid gray;
+    padding: 20px;
+    border-radius: 6px;
+    width: 330px;
+    font-size: 30px;
 }
