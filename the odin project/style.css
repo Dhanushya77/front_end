@@ -1,0 +1,14 @@
+.hhh{
+padding: 40px;
+font-size: small;
+}
+.hh1{
+    display: inline-flex;
+}
+.hh2 a{
+text-decoration: none;
+color: white;
+border: 10px solid rgb(10, 100, 78);
+background-color: rgb(10, 100, 78);
+border-radius: 5px;
+}
