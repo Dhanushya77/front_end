@@ -5,8 +5,13 @@
 
 }
 
+.hhh a {
+    color: grey;
+    text-decoration: none;
+
+}
+
 .hh1 {
-    font-size: 40px;
     color: black;
 
 }
@@ -29,65 +34,69 @@
 }
 
 .hh3 {
-    margin-left: 300px;
-    margin-top: 180px;
+    margin-left: 500px;
+    margin-top: 100px;
     justify-content: center;
     align-items: center;
-    font-size: 90px;
+    font-size: 60px;
 
 }
 
 .hh4 {
-    margin-left: 700px;
-    font-size: 90px;
-    margin-bottom: 30px;
+    margin-left: 810px;
+    font-size: 60px;
+    margin-bottom: 20px;
 }
 
 .hh5 {
-    font-size: 33px;
-    margin-left: 600px;
+    font-size: 28px;
+    margin-left: 660px;
     margin-right: 500px;
     color: rgb(104, 104, 104);
 
 }
 
 .hh6 {
-    font-size: 33px;
-    margin-left: 720px;
+    font-size: 28px;
+    margin-left: 750px;
     margin-right: 600px;
     margin-top: 0px;
     color: rgb(104, 104, 104);
 }
 
 .hhh1 {
-    line-height: 30px;
+    line-height: 20px;
 }
 
 .hh7 {
-    margin-left: 800px;
-    margin-top: 60px;
+    margin-left: 850px;
+    margin-top: 25px;
     border: 1px solid grey;
-    padding: 20px;
+    padding: 10px;
     border-radius: 6px;
-    width: 330px;
-    font-size: 30px;
+    width: 300px;
+    font-size: 28px;
 }
-.body{
+
+.body {
     background-color: rgba(171, 172, 172, 0.842);
 }
+
 .qqq {
     margin-top: 100px;
-    margin-left: 600px;
-    margin-right: 700px;
-    font-size: x-large;
+    margin-left: 700px;
+    margin-right: 750px;
+    font-size: large;
 }
-.bb{
+
+.bb {
     border-top: 1px solid rgb(217, 215, 215);
     margin-top: 16px;
 }
+
 .qq1 {
-    margin-left: 150px;
-    margin-right: 100px;
+    margin-left: 72px;
+
 }
 
 .qq1 h1 {
@@ -104,11 +113,66 @@
 
 .qq2 {
     margin-top: 30px;
-    border: 1px solid grey;
+    border: 1px solid white;
     box-shadow: inset;
-    width: 600px;
-    padding: 60px;
+    width: 500px;
+    padding: 40px;
     border-radius: 6px;
-    line-height: 80px;
+    line-height: 60px;
     background-color: white;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.mb-3 a {
+    color: gray;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: rgb(49, 48, 48);
+    text-decoration: underline;
+
+}
+
+.bi {
+    height: 20px;
+}
+
+.bi:hover {
+    color: rgb(48, 45, 45);
+}
+
+.hh2 a:hover {
+    text-decoration: none;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.hh7:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.qq1 a:hover {
+    text-decoration: none;
+}
+
+.mb-3 a:hover {
+    text-decoration: underline;
+}
+
+.col-1:hover {
+    color: rgb(49, 48, 48);
+    text-decoration: underline;
+}
+
+.hh1 {
+
+    font-family: "Geo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.relative{
+    display: flex;
 }
