@@ -1,86 +1,24 @@
-.hhh {
-    font-size: 20px;
-    display: flex;
-    color: gray;
+/*first page*/
 
-}
-
-.hhh a {
-    color: grey;
-    text-decoration: none;
-
-}
 
 .hh1 {
-    color: black;
-
+    font-family: "Caesar Dressing", system-ui;
+    font-style: normal;
 }
-
-.hh2 a {
-    text-decoration: none;
-    color: white;
-    border: 10px solid rgb(10, 100, 78);
-    background-color: rgb(10, 100, 78);
-    border-radius: 5px;
-}
-
-.container-fluid {
-    margin-top: 30px;
-}
-
-.logo {
-    margin-top: 10px;
+.logo{
     margin-left: 100px;
 }
-
-.hh3 {
-    margin-left: 500px;
+.hhh1{
     margin-top: 100px;
-    justify-content: center;
-    align-items: center;
-    font-size: 60px;
-
 }
-
-.hh4 {
-    margin-left: 810px;
-    font-size: 60px;
-    margin-bottom: 20px;
-}
-
-.hh5 {
-    font-size: 28px;
-    margin-left: 660px;
-    margin-right: 500px;
-    color: rgb(104, 104, 104);
-
-}
-
-.hh6 {
-    font-size: 28px;
-    margin-left: 750px;
-    margin-right: 600px;
-    margin-top: 0px;
-    color: rgb(104, 104, 104);
-}
-
-.hhh1 {
-    line-height: 20px;
-}
-
 .hh7 {
-    margin-left: 850px;
-    margin-top: 25px;
-    border: 1px solid grey;
-    padding: 10px;
-    border-radius: 6px;
-    width: 300px;
-    font-size: 28px;
+    margin-left: 800px;
+    font-size: 15px;
 }
 
-.body {
-    background-color: rgba(171, 172, 172, 0.842);
-}
+
+/*form*/
+
 
 .qqq {
     margin-top: 100px;
@@ -129,6 +67,10 @@
     font-size: 20px;
 }
 
+
+/*hover*/
+
+
 a:hover {
     color: rgb(49, 48, 48);
     text-decoration: underline;
@@ -166,13 +108,4 @@ a:hover {
     text-decoration: underline;
 }
 
-.hh1 {
 
-    font-family: "Geo", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-
-}
-.relative{
-    display: flex;
-}
