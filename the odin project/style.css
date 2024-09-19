@@ -12,7 +12,7 @@
     margin-top: 160px;
 }
 .hhh1 h1{
-    font-size: 70px;
+    font-size: 60px;
 }
 .hh7 {
     margin-left: 800px;
@@ -48,7 +48,7 @@ padding: 60px;
 }
 
 .gg{
- margin-left: 700px;
+    margin-left: 700px;
 }
 
 /*form*/
@@ -100,12 +100,7 @@ padding: 60px;
     text-decoration: none;
     font-size: 20px;
 }
-.uu1{
-    margin-left: 300px;
-}
-.uu2{
-    margin-left: 700px;
-}
+
 
 /*hover*/
 
@@ -146,12 +141,15 @@ a:hover {
     color: rgb(49, 48, 48);
     text-decoration: underline;
 }
- .yy col:hover {
+.col:hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
  }
 .zz a:hover{
     text-decoration: none;
 }
-.dd a:hover{
+.ff a:hover{
     color: black;
+}
+.kk1:hover, .kk2:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
