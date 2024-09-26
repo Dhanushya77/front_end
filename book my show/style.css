@@ -1,20 +1,24 @@
 .main{
     margin-left: 300px;
 }
-.aa{
+
+.aa {
     display: flex;
-    
+
 }
-.search{
+
+.search {
     width: 650px;
     margin-top: 10px;
     opacity: 1;
 }
-.drop{
+
+.drop {
     margin-left: 300px;
     margin-top: 20px;
 }
-.sign{
+
+.sign {
     color: rgb(255, 255, 255);
     background-color: rgb(248, 68, 100);
     font-size: 12px;
@@ -27,37 +31,59 @@
     margin-top: 25px;
 }
 
-.sign a{
+.sign a {
     text-decoration: none;
     color: white;
-   
+
 }
-.ic{
+
+.ic {
     margin-top: 22px;
     margin-left: 20px;
 }
-.list1{
+.list{
+    padding: 0px;
+    width: 100%;
+    background: rgb(31, 37, 51);
+    border-bottom: 1px solid rgb(229, 229, 229);
+}
+.list1 {
     display: flex;
     font-size: 15px;
     line-height: 25px;
     margin-left: 0px;
+    width: 100%;
+    background: rgb(245, 245, 245);
+    padding: 0px;
+
 }
-.bb a{
+.bb{
+    margin-left: 270px;
+}
+.bb a {
     text-decoration: none;
     color: black;
 }
-.bb li{
+
+.bb li {
     display: inline;
     margin-right: 30px;
+   
 }
-.bb1{
-    margin-left: 390px;
+
+.bb1 {
+    margin-left: 420px;
 }
-.bb1 a{
+
+.bb1 a {
     text-decoration: none;
     color: black;
 }
-.bb1 li{
+
+.bb1 li {
     display: inline;
     margin-right: 20px;
+}
+.slide{
+    border-radius: 8px;
 }
