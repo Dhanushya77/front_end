@@ -1,5 +1,5 @@
 .main{
-    margin-left: 300px;
+    margin-left: 100px;
 }
 
 .aa {
@@ -14,7 +14,7 @@
 }
 
 .drop {
-    margin-left: 300px;
+    margin-left: 700px;
     margin-top: 20px;
 }
 
@@ -58,7 +58,7 @@
 
 }
 .bb{
-    margin-left: 270px;
+    margin-left: 70px;
 }
 .bb a {
     text-decoration: none;
@@ -72,7 +72,7 @@
 }
 
 .bb1 {
-    margin-left: 420px;
+    margin-left: 840px;
 }
 
 .bb1 a {
@@ -86,4 +86,26 @@
 }
 .slide{
     border-radius: 8px;
+    border: 1px solid rgb(245, 245, 245);
+    background-color:rgb(245, 245, 245) ;
+}
+.main1{
+    margin-left: 100px;  
+}
+.mov{
+    display: flex;
+}
+.movie{
+    border-radius: 10px;
+    margin-right: 10px;
+
+}
+.mov a{
+    text-decoration: none;
+    color: black;
+    text-align: left;
+}
+.main3{
+    margin-left: 100px;
+    width: 1000px;
 }
