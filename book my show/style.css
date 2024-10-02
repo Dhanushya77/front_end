@@ -8,37 +8,70 @@
 }
 
 .search {
-    width: 650px;
-    margin-top: 10px;
+    width: 750px;
+    margin-top: 30px;
     opacity: 1;
+    margin-left: 20px;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+}
+
+.input-group {
+    position: relative;
+}
+
+.input-group-search {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+}
+
+.search-icon {
+    font-size: 20px;
+}
+
+.search-input {
+    padding: 8px 40px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  
 }
 
 .drop {
-    margin-left: 700px;
-    margin-top: 20px;
+    margin-left: 550px;
+    margin-top: 26px;
 }
+.btn {
+    padding: 10px 15px;
+    font-size: 20px;
+}
+
 
 .sign {
     color: rgb(255, 255, 255);
     background-color: rgb(248, 68, 100);
-    font-size: 12px;
-    height: 25px;
+    font-size: 20px;
+    height: 30px;
     line-height: 25px;
-    width: 67px;
+    width: 70px;
     text-align: center;
     border-radius: 4px;
     border: 1px solid rgb(248, 68, 100);
-    margin-top: 25px;
+    margin-top: 38px;
 }
 
 .sign a {
     text-decoration: none;
     color: white;
-
 }
 
 .ic {
-    margin-top: 22px;
+    margin-top: 34px;
     margin-left: 20px;
 }
 .list{
@@ -49,7 +82,7 @@
 }
 .list1 {
     display: flex;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 25px;
     margin-left: 0px;
     width: 100%;
@@ -72,7 +105,7 @@
 }
 
 .bb1 {
-    margin-left: 840px;
+    margin-left: 760px;
 }
 
 .bb1 a {
@@ -97,7 +130,7 @@
 }
 .movie{
     border-radius: 10px;
-    margin-right: 10px;
+    margin-right: 38px;
 
 }
 .mov a{
@@ -107,5 +140,14 @@
 }
 .main3{
     margin-left: 100px;
-    width: 1000px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.main4{
+    margin-left: 100px;
+}
+.hh{
+    width: 310px;
+    margin-right: 40px;
+    border-radius: 8px;
 }
