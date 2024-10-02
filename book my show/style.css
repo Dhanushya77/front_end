@@ -4,6 +4,7 @@
 
 .aa {
     display: flex;
+    flex-wrap: wrap;
 
 }
 
@@ -132,11 +133,14 @@
 .main1 {
     margin-left: 100px;
 }
-.main1 p{
+
+.main1 p {
     color: rgb(51, 50, 50);
 }
+
 .mov {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .movie {
@@ -184,33 +188,75 @@
 
 .prem {
     display: flex;
+    flex-wrap: wrap;
 }
-.prem a{
+
+.prem a {
     text-decoration: none;
     color: white;
     text-align: left;
 }
-.main6{
+
+.main6 {
     margin-left: 100px;
     margin-top: 30px;
 
 }
-.main6 p{
+
+.main6 p {
     line-height: 10px;
     color: rgb(51, 50, 50);
 }
-.mus{
+
+.mus {
     display: flex;
+    flex-wrap: wrap;
+
 }
-.mus a{
+
+.mus a {
     text-decoration: none;
     color: black;
     text-align: left;
 }
-.mus h4{
+
+.mus h4 {
     width: 310px;
 }
-.main7{
+
+.main7 {
     margin-left: 100px;
     margin-top: 30px;
+}
+
+
+.rows {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 20px 10px 0px;
+}
+
+.gg {
+    border: 1px solid white;
+    background-color: white;
+    padding: 10px 50px 10px 30px;
+    border-radius: 5px;
+    color: rgb(155, 154, 154);
+}
+
+.gg h5 {
+    color: rgb(247, 45, 79);
+}
+.footer{
+    background: black;
+    margin-left: 20px;
+}
+.foot1{
+    display: flex;
+    flex-wrap: wrap;
+    color: grey;
+
+}
+.bg{
+    background: rgb(245, 245, 245);;
 }
