@@ -254,6 +254,37 @@
     color: grey;
 
 }
+.ff3{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ff2{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.ff1{
+    margin-top: 7px;
+}
+
 .bg{
     background: rgb(245, 245, 245);;
+}
+.ff4{
+    color: rgb(255, 255, 255);
+    background-color: rgb(248, 68, 100);
+    font-size: 26px;
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    border-radius: 4px;
+    border: 1px solid rgb(248, 68, 100);
+    margin-top: 8px;
+    margin-left: 600px;
+}
+.ff4 a{
+    text-decoration: none;
+    color: white;
 }
