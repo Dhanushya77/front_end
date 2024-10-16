@@ -9,8 +9,11 @@
 }
 .main1{
     background-color:  rgb(51, 50, 50);
+    height: 100px;
 }
 .logo{
     margin-left: 60px;
-    padding: 10px;
+}
+.main1{
+    display: flex;
 }
