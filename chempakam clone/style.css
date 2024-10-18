@@ -3,10 +3,10 @@
 }
 
 .tt {
-    margin-left: 60px;
-    margin-top: 6px;
-    line-height: 26px;
-    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 11px;
+    line-height:3px;
+    font-size: 14px;
 }
 
 .main1 {
@@ -15,7 +15,8 @@
 }
 
 .logo {
-    margin-left: 60px;
+    margin-top: 10px;
+    margin-left: 150px;
 }
 
 .main1 {
@@ -23,10 +24,10 @@
 }
 
 .btn {
-    margin-top: 20px;
+    margin-top: 33px;
     color: white;
-    font-size: 20px;
-    margin-left: 200px;
+    font-size: 15px;
+    margin-left: 100px;
 }
 
 .dropdown-menu {
@@ -35,22 +36,23 @@
 
 .dropdown-item {
     color: white;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .list li {
     display: inline;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 
 .list {
-    margin-top: 26px;
+    margin-top: 40px;
+    margin-left: -15px;
 }
 
 .search {
-    width: 234px;
+    width: 200px;
     margin-top: 20px;
     margin-left: 20px;
 }
@@ -68,24 +70,15 @@
     position: absolute;
     top: 50%;
     left: 10px;
-    transform: translateY(-50%);
 }
-
-.search-icon {
-    font-size: 22px;
-}
-
 .search-input {
-    padding: 8px 40px;
-    font-size: 22px;
+    margin-top: 10px;
+    color: #ccc;
+    padding:8px;
+    font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: rgb(51, 50, 50);
-
-}
-
-.main-menu>ul>li {
-    display: inline-block;
+    background-color: rgb(61, 60, 60);
 }
 
 li {
@@ -93,49 +86,62 @@ li {
     margin: 0;
     padding: 0;
 }
-
+.bi{
+    color:grey;
+    margin-left: 20px;
+    margin-top: 36px;
+}
+.bi-linkedin{
+    border-radius: 50%;
+}
+.bi-heart{
+    color:rgba(248, 191, 5, 0.932);
+}
+.bi-basket2{
+    color: rgba(248, 191, 5, 0.932);
+}
 .main2 {
     position: relative;
-    width: 100%;
-    max-width: 900px;
 }
-.main2 img{
-    height: 900px;
-    width: 1884px;
-}
+
 .text-front {
     position: absolute;
     color: white;
-    transform: translate(-50%, -50%);
-    top: 400px;
-    left: 390px;
-    font-size: 70px;
+    top: 100px;
+    left: 400px;
+    font-size:50px;
 }
-
-.mh {
-    font-size: 140px;
-    font-family: "Birthstone Bounce", cursive;
-    font-weight: 500;
-    font-style: normal;
+.bt{
+    display: flex;
+    flex-direction: column;
+    margin-left:0px;
+   
 }
-.sh{
-    font-size: 100px;
-}
-
-.bn1{
-    border: 1px solid white;
-    background-color: white;
+.bt h6{
     color: gray;
-    font-size: 30px;
-    width: 180px;
-    padding: 10px;
+    height: 15px;
+    text-align: center;
+    margin-top:10px;
 }
-.bn2{
-    margin-top: 20px;
-    border: 1px solid white;
-    background-color: white;
+.bt1{
+    margin-bottom: 20px;
+    width: 170px;
+}
+.bt2{
+    width: 200px;
+}
+.slide{
+    border-radius: 50%;
+}
+.contents{
+    margin-left: 170px;
+    margin-top: 60px;
+}
+.cc{
+    display: flex;
+}
+.cc p{
+    text-align: center;
+    margin-top: 5px;
     color: gray;
-    font-size: 30px;
-    width: 260px;
-    padding: 10px;
 }
