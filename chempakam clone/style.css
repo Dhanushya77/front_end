@@ -1,5 +1,12 @@
+.header{
+    position: fixed;
+    
+    width: 100%;
+}
+
 .main {
     background-color: rgb(248, 228, 218);
+    
 }
 
 .tt {
@@ -12,6 +19,7 @@
 .main1 {
     background-color: rgb(51, 50, 50);
     height: 100px;
+    
 }
 
 .logo {
@@ -224,7 +232,7 @@ li {
     width: 250px;
     height:40px;
     border-width: 1px;
-    background-color: rgb(248, 248, 248);
+    background-color: white;
     margin-top: 10px;
     margin-left: 700px;
     margin-top: 70px;
@@ -234,4 +242,65 @@ li {
 .button2 p{
     font-size: 14px;
     font-weight: 600;
+}
+.ff{
+    margin-left: 150px;
+    margin-right: 80px;
+}
+.foot2{
+    display: flex;
+}
+.footer{
+    display: flex;
+    background-color: rgb(51, 50, 50);
+    color: white;
+    font-size: 16px;
+}
+.row{
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.row1{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.con{
+    display: flex;
+}
+.bi1{
+    color:white;
+   margin-left: 30px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.bi2{
+    color:white;
+    margin-right: 20px;
+}
+.row1 p:hover{
+    color: rgb(150, 14, 66);
+}
+.row p:hover{
+    color: rgb(150, 14, 66);
+}
+.bi1 :hover{
+    color: rgb(150, 14, 66); 
+}
+.bi :hover{
+    color: rgb(150, 14, 66);
+}
+.drop :hover{
+    color: rgb(150, 14, 66);
+}
+.list :hover{
+    color: rgb(150, 14, 66);
+}
+.bt :hover{
+    background-color: white;
+}
+.button2 :hover{
+    background-color: rgb(248, 248, 248);
+}
+.button1 :hover{
+    background-color: white;
 }
