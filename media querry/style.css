@@ -1,0 +1,111 @@
+h2{
+    /* font-size: 10em; */
+    font-size: 3vw;
+}
+.demo{
+    width: 80%;
+    /* height: 300px; */
+    background-color: antiquewhite;
+    margin: auto;
+    /* margin-left: 200px; */
+}
+
+.flex{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+.sub1{
+    background-color: aqua;
+    /* flex: 25%; */
+}
+.sub2{
+    background-color: aquamarine;
+    /* flex:25%; */
+}
+.sub3{
+    background-color: bisque;
+    /* flex:25%; */
+
+}
+.sub4{
+    background-color: rgb(190, 124, 42);
+    /* flex:25%; */
+
+}
+
+.grid{
+    display: grid;
+    width: 80%;
+    margin: auto;
+    grid-template-columns: auto auto auto auto;
+    /* grid-template-rows: 200px; */
+}
+
+
+
+/* @media screen  and (max-width:500px) {
+ body{
+    background-color: blue;
+ }    
+}
+@media screen  and (max-width:800px) and (min-width:500px) {
+    body{
+       background-color: rgb(121, 121, 177);
+    }    
+    .flex{
+        flex-direction: column;
+    }
+     .flex div{
+        flex: 100%;
+     }
+     .grid{
+        grid-template-columns: auto;
+     }
+
+}
+
+
+@media screen  and (max-width:1000px) and (min-width:800px) {
+    body{
+       background-color: rgb(42, 42, 71);
+    }   
+    .flex div{
+        flex: 50%;
+    } 
+    .grid{
+        grid-template-columns: auto auto;
+        grid-template-rows: 200px 200px;
+
+    }
+} */
+
+
+@media screen  and (max-width:576px) {
+    body{
+       background-color: blue;
+    }  
+    .grid{
+        grid-template-columns: auto;
+     }
+}
+@media screen  and (max-width:767px) and (min-width:577px) {
+    body{
+       background-color: rgb(127, 127, 185);
+    }  
+    .grid{
+        grid-template-columns: auto auto;
+     }
+}
+@media screen  and (max-width:992px) and (min-width:768px) {
+    body{
+       background-color: rgb(49, 49, 65);
+    }  
+    .grid{
+        grid-template-columns: auto auto;
+     }
+}
